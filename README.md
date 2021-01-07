@@ -7,3 +7,13 @@ This is a repository created by *Skylar*
 Run this command to execute the application:
 
 `python filename.py`
+
+## Favorite Foods
+
+* Tacos
+* Coffee
+* Lemon Cookies
+
+## LinkedIn
+
+[Click Here](https://www.linkedin.com/in/skylar-schlicht-2b52191a3/)
