@@ -16,4 +16,4 @@ Run this command to execute the application:
 
 ## LinkedIn
 
-[Click Here](https://www.linkedin.com/in/skylar-schlicht-2b52191a3/)
+[Click Here](https://www.linkedin.com)
